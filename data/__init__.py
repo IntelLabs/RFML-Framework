@@ -2,7 +2,7 @@ from .base import BaseRFDataset
 from .synthetic import SyntheticDataset
 from .captured import CapturedDataset
 
-def initialize_dataset(args, type='SyntheticDataset', split="train", concepts="decision_tree2", meta_filter=['modulation', 'snr', 'fo']):
+def initialize_dataset(args, type='SyntheticDataset', split="train", meta_filter=['modulation', 'snr', 'fo']):
     if split == "train":
         path = args.train_path
         n_examples = args.n_train

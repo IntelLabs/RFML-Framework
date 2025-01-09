@@ -1,8 +1,3 @@
-
-'''
-Usage:
-python scripts/train_cnn.py --train_path /store/nosnap/data/train/ --val_path /store/nosnap/data/validate/ --save_path /store/nosnap/results/modclass/temp/ --reload_best
-'''
 import logging
 import os
 import sys

@@ -1,13 +1,3 @@
-## DEPRECATED
-
-'''
-Get accuracy, MITRE score, and/or accVsnr of trained model.
-
-Usage:
-python scripts/score.py --eval_path /store/nosnap/data/validate/ --results_path /store/nosnap/results/modclass_test/
-
-'''
-
 import argparse
 import os
 import sys
