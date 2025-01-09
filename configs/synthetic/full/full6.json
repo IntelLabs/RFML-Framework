@@ -1,0 +1,8 @@
+{
+    "modulation":["bpsk", "qpsk", "8psk", "16psk", "4dpsk", "16qam", "32qam", "64qam", "16apsk", "32apsk", "fsk5k", "fsk75k", "gfsk5k", "gfsk75k", "msk", "gmsk", "fmnb", "fmwb", "dsb", "dsbsc", "lsb", "usb", "awgn"],
+    "channel":{"type":"awgn",
+               "snr":[11,16,1],
+               "fo":[-0.1,0.1,0.025],
+               "po":[0.0,0.0,0.0]}
+}
+
