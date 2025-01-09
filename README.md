@@ -7,7 +7,7 @@ The repository is intuitively laid out in the following manner:
 - `./models/` contains PyTorch nn.Module wrappers for various model architectures and model I/O functions
 - `./scripts/` contains example scripts for model training, evaluation, and calibration
 
-Basic instructions for the use of this framework is given in the subsections below:
+Basic instructions for the use of this framework are given in the subsections below:
 - [Setup](#setup)
 - [Data](#data)
 - [Model Architectures](#model-architectures)
