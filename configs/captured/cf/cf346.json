@@ -1,0 +1,8 @@
+{
+    "modulation":["2-fsk", "4-fsk", "msk", "ook", "gfsk"],
+    "snr":[],
+    "cf":[346e6],
+    "tx_id":[],
+    "rx_id":[],
+    "rx_loc":[]
+}
