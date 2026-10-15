@@ -1,3 +1,10 @@
+> [!WARNING]
+> **THIS PROJECT IS ARCHIVED**  
+> Intel will not provide or guarantee development of or support for this project,
+> including but not limited to, maintenance, bug fixes, new releases or updates.
+>
+> Patches to this project are no longer accepted by Intel.  
+
 # RFML Framework
 
 RFML Framework is an open-source library for performing various Radio Frequency Machine Learning (RFML) tasks. 
